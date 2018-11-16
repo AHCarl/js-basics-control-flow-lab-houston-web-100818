@@ -19,6 +19,8 @@ function ternaryCheckCity(city) {
 }
 
 function switchOnCharmForTip() {
-  
+ 
+ 
+ default:  
 }
 }
