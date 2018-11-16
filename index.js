@@ -2,5 +2,6 @@
 function scuberGreetingForFeet(feet)  {
   
   let result;
-  if feet <
+  if feet <= 401
+    
 }
